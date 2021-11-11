@@ -568,6 +568,22 @@ class: middle, center
 
 ---
 
+class: center 
+
+### Immediate rebate is $1,200 more valuable than current federal tax credit
+
+<center>
+<img src="images/wtp_incentives.png" width=850>
+</center>
+
+---
+
+<center>
+<img src="images/tax_total.png" width=930>
+</center>
+
+---
+
 class: middle, center, inverse
 
 # [.green[Return to choices]](#choose)
@@ -595,6 +611,17 @@ class: middle, center
 
 <center>
 <img src="images/conjoint_av.png" width=1100>
+</center>
+
+---
+
+background-color: #fff
+class: center
+
+# AVs only preferred when attendant present
+
+<center>
+<img src="images/wtp_av.png" width=1000>
 </center>
 
 ---
